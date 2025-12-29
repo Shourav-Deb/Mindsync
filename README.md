@@ -105,7 +105,14 @@ This project is developed as a **high-fidelity HCI prototype** focused on usabil
 
 The design follows a **calm and accessible UI/UX style**, using a blue, green, and white color palette with soft gradients and minimal card-based layouts. Emotion-focused icons, clear visual hierarchy, and accessibility-friendly spacing are used to reduce cognitive load and create a supportive user experience suited for wellbeing applications.
 
-Academically, this repository documents the complete **HCI design process**, including low-fidelity sketching, user research and interviews, heuristic evaluation, high-fidelity prototyping, and interface evaluation. It also outlines future enhancement possibilities such as real sleep sensor integration, AI-based insights, sentiment analysis for reflections, and full mobile or web application development, serving as both a design archive and a foundation for future implementation.
+Academically, this repository documents the complete **HCI design process**, including 
+- low-fidelity sketching
+- user research and interviews
+- heuristic evaluation
+- high-fidelity prototyping
+- interface evaluation
+
+It also outlines future enhancement possibilities such as real sleep sensor integration, AI-based insights, sentiment analysis for reflections, and full mobile or web application development, serving as both a design archive and a foundation for future implementation.
 
 
 ## 📌 Repository Purpose
